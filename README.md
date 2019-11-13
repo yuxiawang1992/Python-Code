@@ -1,2 +1,2 @@
 # Python-Code
-plotting, data analysis, web scraping and others using Python
+Frequently used plotting, data analysis, data preprocessing, web scraping and other codes in Python
